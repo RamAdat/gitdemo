@@ -1,1 +1,3 @@
-dfhfghfgh
+class ThirdClass
+{
+}
